@@ -19,23 +19,23 @@ function App() {
 					successful
 				</p>
 			</section>
-			<Container lg="4" sm="12" className="components">
+			<Container  className="components">
 				<Row>
-					<Col className="component">
+					<Col lg="12" md="12" sm="12"className="component">
 						<TeamBuilder />
 					</Col>
 				</Row>
 				<Row>
-					<Col className="component">
+					<Col lg="6" md="12" sm="12"className="component">
 						<Supervisor />
 					</Col>
 
-					<Col className="component">
+					<Col lg="6" md="12" sm="12"className="component">
 						<Calculator />
 					</Col>
 				</Row>
 				<Row>
-					<Col className="component">
+					<Col lg="12" md='12' sm='12' className="component">
 						<Karma />
 					</Col>
 				</Row>
