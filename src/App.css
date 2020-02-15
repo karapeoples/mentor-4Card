@@ -1,5 +1,5 @@
 .App {
-	text-align: center;
+  text-align: center;
 }
 
 .attribution {
@@ -8,4 +8,21 @@
 }
 .attribution a {
 	color: hsl(228, 45%, 44%);
+}
+.components{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+}
+
+.textDiv{
+  width: 100%;
+  margin: 0 auto;
+}
+.imgDiv{
+  width:90%;
+  display: flex;
+  justify-content: flex-end
 }
