@@ -1,12 +1,9 @@
 import React from "react";
 
-const center = {
-	marginLeft: '5%',
-}
 const Footer = () => {
 	return (
 		<>
-			<footer style={center}>
+			<footer>
 				<p class="attribution">
 					Challenge by{" "}
 					<a href="https://www.frontendmentor.io?ref=challenge">
