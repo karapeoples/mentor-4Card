@@ -1,3 +1,6 @@
+Made with React Mobile is @ 500px instead of 375px
+Published: https://mentor-4-card.now.sh/
+
 # Frontend Mentor - Four card feature section
 
 ![Design preview for the Four card feature section coding challenge](./design/desktop-preview.jpg)
